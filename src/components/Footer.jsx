@@ -4,7 +4,7 @@ const Footer = () => {
 			Created with ❤️ by
 			<a
 				href="https://github.com/zahidmuhammed"
-				target="_blank"
+				// target="_blank"
 				className="px-1"
 			>
 				Zahid Muhammed
