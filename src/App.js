@@ -4,10 +4,10 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 const App = () => {
 	return (
-		<Router>
+		<Router basename={window.location.pathname || ''}>
 			<Routes>
 				<Route path="/quiz/:id" element={<QuizPage />} />
-				<Route path="/" element={<Home />} />
+				<Route exact path="/" element={<Home />} />
 			</Routes>
 		</Router>
 	);
