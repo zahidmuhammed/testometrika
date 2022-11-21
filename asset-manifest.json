@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.48d0c9a1.css",
+    "main.js": "/static/js/main.422938a8.js",
+    "static/media/think_logo.svg": "/static/media/think_logo.c0cadd82b1f234710b83973ba97e8474.svg",
+    "static/media/quiz_logo.svg": "/static/media/quiz_logo.d07b793dccc30776223ef850d4f15baa.svg",
+    "index.html": "/index.html",
+    "main.48d0c9a1.css.map": "/static/css/main.48d0c9a1.css.map",
+    "main.422938a8.js.map": "/static/js/main.422938a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48d0c9a1.css",
+    "static/js/main.422938a8.js"
+  ]
+}
